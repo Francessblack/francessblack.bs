@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 0;
+}
+.header{
+    background-image: url(image-omelette.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+    height: 600px;
+    width: 2500px;
+}
+.item{
+    display: grid;
+    padding: 5px;
+    margin: 20px;
+}
+.recipe h1{
+    font-size: 90px;
+font-family: serif;
+    
+}
+.recipe p{
+    font-size: 35px;
+}
+.cook{
+    font-size: (paragraph):16px;
+    background-color: rgb(230, 202, 230);
+}
+.cook h2{
+    font-size: 40px;
+ font-family: serif;
+    color: purple;
+} 
+.cook ul{
+  font-size:30px ;
+}
+.inside{
+    word-spacing:10px;
+    
+} 
+.inside h1 {
+    color: brown;
+    font-size: 70px;
+
+}  
+.inside ul{
+    font-size: 30px;
+}
+.instruct h1{
+    color: brown;
+    font-size: 70px;
+}
+.instruct ul{
+    font-size: 35px;
+}
+.last{
+    word-spacing: 12px;
+    
+}
+.last h1{
+    color: brown;
+    font-size: 70px;
+}
+.last p{
+    font-size: 35px;
+}
+@media{max-width: 400px;}
