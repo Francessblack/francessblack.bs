@@ -1,0 +1,35 @@
+
+#logo{
+   width: 180px;
+   height: 100px;
+}
+#picture img{
+    height: 400px;
+    width: 400px;
+
+    
+
+}
+ @media(min-width:768px){
+    .inputs{
+        width: 50%;
+    }
+ }
+
+ #picture2 img{
+    height: 280px;
+    width: 350px;
+ }
+ #picture3 img{
+    height: 280px;
+    width: 350px;
+ }
+
+ #instructors img{
+   width: 80px;
+   height: 70px;
+ }
+ #button2{
+   width: 100px;
+   
+ }
